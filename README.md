@@ -9,3 +9,5 @@ Completed Labs for Yuxin Zhang
 3. [Yuxin Zhang's Lab 3](https://github.com/TakoYuxin/Interactive-Device-Lab-Hub/tree/master/IDD-Fa19-Lab3)
 
 4. [Yuxin Zhang's Lab 4](https://github.com/TakoYuxin/Interactive-Device-Lab-Hub/tree/master/IDD-Fa19-Lab4-master)
+
+5. [Yuxin Zhang's Lab 5](https://github.com/TakoYuxin/Interactive-Device-Lab-Hub/tree/master/IDD-Fa19-Lab5)
